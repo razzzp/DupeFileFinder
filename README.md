@@ -1,6 +1,6 @@
 # Dupe File Finder
 
-Package for finding duplicate file names in a folder recursively.
+Package for finding duplicate file names in a folder recursively. Outputs to stdout.
 
 # Usage
 
@@ -13,3 +13,5 @@ positional arguments:
 
 options:
   -h, --help   show this help message and exit
+
+
